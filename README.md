@@ -17,9 +17,9 @@ This repository showcases practical QA projects developed during my studies, foc
 - Bug Reporting
 - SDLC & STLC
 - Jira
-- TestRail
 - Postman
 - Git & GitHub
+- Test management tools (TestRail – theoretical knowledge)
 
 ## About my background
 I have experience in bilingual customer service and education, which strengthened my communication skills, attention to detail, and problem-solving abilities — all essential for QA roles.
