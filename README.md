@@ -19,6 +19,7 @@ This repository showcases practical QA projects developed during my studies, foc
 - Jira
 - Postman
 - Git & GitHub
+- SQL
 - Test management tools (TestRail – theoretical knowledge)
 
 ## About my background
